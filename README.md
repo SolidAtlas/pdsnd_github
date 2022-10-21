@@ -5,11 +5,25 @@
 BikeShare Git Project
 
 ### Description
-Describe what your project is about and what it does
+This Project looks at bikeshare datafrom Washington, Chicago, and New York City. the bikeshare_2.py file will let the user pick from the cities and two time filters. The program then generates some descriptive statistics about the generated bikshare data.
 
 ### Files used
-Include the files used
+Bikeshare_2.py
+    the main program, runs as the description states.
+
+washington.csv
+    data provided by udacity, igonred by .gitignore.
+    this file has no age or gender data.
+
+chicago.csv
+    data provided by udacity, igonred by .gitignore.
+    this file has no age or gender data.
+
+new_york_city.csv
+    data provided by udacity, igonred by .gitignore.
+    this file has no age or gender data.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thank you to the Pandas Team for great documentation
+https://pandas.pydata.org/docs/
 
