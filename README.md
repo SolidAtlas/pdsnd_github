@@ -27,3 +27,6 @@ new_york_city.csv
 Thank you to the Pandas Team for great documentation
 https://pandas.pydata.org/docs/
 
+### Notes
+This is my second submission for the git project. Specifically look at commit messages. Specifically look that the repository uses correct .gitignore and no .csv files are in the repository.
+
