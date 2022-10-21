@@ -1,8 +1,8 @@
 ### Date created
-Include the date you created this project and README file.
+10/20/2022
 
 ### Project Title
-Replace the Project Title
+BikeShare Git Project
 
 ### Description
 Describe what your project is about and what it does
