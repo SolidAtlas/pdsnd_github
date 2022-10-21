@@ -1,6 +1,5 @@
 import time
 import pandas as pd
-import numpy as np
 
 
 ###############-------files to call-------######################
@@ -44,10 +43,7 @@ def get_filters():
                 print('GOOD CHOICE!')
                 break
             else:
-                 print('')
-                 print('Bad User...choose an AVAILABLE option')
-                 print('Options:')
-                 print('Chicago, New York City, Washington')
+                 print('\nBad User...choose an AVAILABLE option\nOptions:\nChicago, New York City, Washington')
         except:
             print('That is not a valid selection, Please choose again')
             print('Options:')
